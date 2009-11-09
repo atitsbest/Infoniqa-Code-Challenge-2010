@@ -1,4 +1,5 @@
-﻿# Infoniqa Code Challenge 2009
+﻿Infoniqa Code Challenge 2009
+============================
 
 Enstanden während einer Besprechnung mit Achi (Thomas Achleitner). Die Idee: Wie gut bin ich als Programmierer?
 Die [Catalyst](http://catcoder.catalysts.cc) hat den Programmierwettbewerb bei uns durchgeführt.
